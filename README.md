@@ -1,4 +1,4 @@
 # e-school-full-project-10-08-2025
 Full project of e-school on 10-08-2025
 Link review
-https://moksedulhaque01.github.io/e-school-full-project-10-08-2025/
+https://moksedulhaque01.github.io/e-school/
