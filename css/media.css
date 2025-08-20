@@ -57,6 +57,7 @@ header{
 }
 .co_item{
     margin: 30px 0 0;
+    padding: 25px 0 30px;
 }
 .co_h2{
       font-size: 22px;
@@ -81,7 +82,7 @@ header{
 /* footer top start */
 .footer_top{
     text-align: center;
-    padding: 55px 0 20px;
+    padding: 55px 0 0;
 }
 .ft_details{
     margin-bottom: 35px;
@@ -90,7 +91,10 @@ header{
 .ft_links{
   margin-bottom: 35px;  
 }
-/* courses end */
+/* footer start */
+footer{
+  padding: 0 0 30px;
+}
 }
 /*Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) and (max-width: 767.98px){
@@ -169,6 +173,7 @@ header{
 /* footer top start */
 .footer_top{
     text-align: center;
+        padding: 55px 0 20px;
 }
 .ft_details{
     margin-bottom: 35px;
@@ -227,9 +232,10 @@ header{
 /* footer top start */
 .footer_top{
     text-align: center;
+    padding: 55px 0 30px;
 }
 .ft_details{
-    margin-bottom: 35px;
+    margin-bottom: 31px;
     padding-right: 80px;
     padding-left: 80px;
 }
